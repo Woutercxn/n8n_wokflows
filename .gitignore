@@ -1,0 +1,9 @@
+# Exclude all non-JSON files in this repository.
+# This file is used to specify Intentional Removes.
+*.txt
+*.md
+*.csv
+*.xml
+*.yaml
+*.yml
+*.*;
